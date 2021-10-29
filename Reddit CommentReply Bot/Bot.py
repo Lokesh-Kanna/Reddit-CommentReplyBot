@@ -11,8 +11,8 @@ reddit = praw.Reddit(
     client_id="-G-xARupY0L-fsY-FeYXbQ",
     client_secret="YityOfa9sp-x90VvYn650T-HskMEUA",
     user_agent="<COnsole:Mr.Robot> 1.0",
-    username="War_God_Kratos",
-    password="gorgantua"
+    username="War_God",
+    password=""
 )
 
 subreddit = reddit.subreddit("Aww")
